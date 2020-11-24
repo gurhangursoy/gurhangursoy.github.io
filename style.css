@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (max-width: 768px) {  
+    
+    .footer-title {
+        display:none;
+    }
+
+
+ 
+}
+ 
+
+
+/* Navbar Section */
+
+.logo {
+width: 300px;
+height: 80px;
+}
+
+.footer-logo {
+    height: 88px;
+    width: 170px;
+}
+
+.block-separator {
+    max-width: 100% !important;
+    margin-left: 25px;
+    margin-right: 25px;
+    box-sizing: border-box;
+}
+
+.fab {
+    color: white;
+}
+
+
