@@ -17,8 +17,8 @@ You can access the website from this link;
 https://gurhangursoy.github.io/
 
 ## Screenshots
-![SS-1](https://user-images.githubusercontent.com/73755991/100870325-7e6e2180-34af-11eb-936e-3d2e24bd879c.JPG)
-![SS-2](https://user-images.githubusercontent.com/73755991/100870338-862dc600-34af-11eb-99e7-f65c652e1110.JPG)
+![SS-1](https://user-images.githubusercontent.com/73755991/100878483-4f5dad00-34bb-11eb-831e-688a0b732793.JPG)
+![SS-2](https://user-images.githubusercontent.com/73755991/100878487-508eda00-34bb-11eb-95d2-92351bf56a30.JPG)
 
 ## Technologies
 * BOOTSTRAP
